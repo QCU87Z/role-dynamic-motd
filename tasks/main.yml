@@ -11,3 +11,4 @@
     line: "/usr/local/bin/dynamotd.sh"
     insertafter: EOF
     state: present
+    
