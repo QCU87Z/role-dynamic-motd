@@ -11,3 +11,6 @@ keldagrim.qcu87z.net
 fremennik.qcu87z.net
 zanaris.qcu87z.net
 brimhaven.qcu87z.net
+
+[core:vars]
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
