@@ -1,5 +1,4 @@
 ---
 # vars file for role-dynamic-motd
-hosts: all
 sudo: yes
   
