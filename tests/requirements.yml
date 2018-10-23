@@ -1,0 +1,5 @@
+---
+# ansible-galaxy install -r requirements.yml
+- name: role-dynamic-motd
+  src: https://github.com/QCU87Z/role-dynamic-motd
+  version: origin/dev
