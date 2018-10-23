@@ -1,0 +1,3 @@
+---
+# defaults file for role-dynamic-motd
+script-location: "/usr/local/bin"
